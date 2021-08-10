@@ -20,7 +20,7 @@ img {
     text-align: center;
 }
 .centered {
-    position: absolute;
+    position: fixed;
     left: 25%;
     text-align: center;
 }
