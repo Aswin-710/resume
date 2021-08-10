@@ -14,7 +14,7 @@ img {
     width: 30%;
     background-color: black;
     color: whitesmoke;
-    position: absolute;
+    position: fixed;
     height: 100%;
     overflow: auto;
     text-align: center;
@@ -28,6 +28,7 @@ img {
   margin-left:33%;
   padding:1px 16px;
   height:1000px;
+  position: fixed;
 }
 .right h1{
   padding-right: 25%;
